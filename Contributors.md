@@ -28,6 +28,7 @@
 - Vilkas
 - Ketan Yadav
 - johnie
+- [Erickson Cesar](https://github.com/ericksoncesar)
 - [gooseneedsbread](https://github.com/gooseneedsbread)
 - [Rhea](https://github.com/RheaAtre)
 - shyGuy
